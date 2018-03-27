@@ -1,0 +1,10 @@
+#pragma once
+
+#define ROM_BANK_SIZE 0x4000
+#define RAM_BANK_SIZE 0x2000
+#define ROM0_POS 0x0000
+#define ROM0_END 0x3FFF
+#define SWITCH_ROM_POS 0x4000
+#define SWITCH_ROM_END 0x7FFF
+#define SWITCH_RAM_POS 0xA000
+#define SWITCH_RAM_END 0xBFFF
